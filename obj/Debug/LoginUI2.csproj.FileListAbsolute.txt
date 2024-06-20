@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\bin\Debug\LoginUI2.exe.config
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\bin\Debug\LoginUI2.exe
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\bin\Debug\LoginUI2.pdb
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.Form1.resources
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.exe
+C:\Users\Mustafa\source\repos\LoginUI2\LoginUI2\obj\Debug\LoginUI2.pdb
